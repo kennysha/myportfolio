@@ -113,5 +113,37 @@
   <footer>
     <p>&copy; 2026 Shannon Kenny</p>
   </footer>
+
+  <script>
+    // Marks the nav link for the section currently on screen
+    (function () {
+      var links = Array.prototype.slice.call(document.querySelectorAll('nav a[href^="#"]'));
+      var sections = links.map(function (a) { return document.querySelector(a.getAttribute('href')); });
+      var ticking = false;
+
+      function update() {
+        var line = window.innerHeight * 0.35;
+        var current = -1;
+        sections.forEach(function (s, i) {
+          if (s && s.getBoundingClientRect().top <= line) current = i;
+        });
+        var atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4;
+        if (atBottom) current = sections.length - 1;
+        links.forEach(function (a, i) {
+          if (i === current) a.setAttribute('aria-current', 'true');
+          else a.removeAttribute('aria-current');
+        });
+        ticking = false;
+      }
+
+      function onScroll() {
+        if (!ticking) { ticking = true; requestAnimationFrame(update); }
+      }
+
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', onScroll);
+      update();
+    })();
+  </script>
 </body>
 </html>

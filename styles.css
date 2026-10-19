@@ -40,7 +40,15 @@ a { color: var(--mauve); }
 .site-header ul { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin: 0; padding: 0; list-style: none; }
 .site-header nav a { color: var(--ink); text-decoration: none; padding: 0.25rem 0; }
 .site-header nav a:hover { color: var(--mauve); }
-.site-header .resume { border-bottom: 2px solid var(--lilac); }
+.site-header nav a[aria-current] {
+  color: var(--mauve);
+  text-decoration: underline;
+  text-decoration-color: var(--lilac);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 6px;
+}
+.site-header .resume { border: 2px solid var(--lilac); border-radius: 999px; padding: 0.25rem 1rem; }
+.site-header .resume:hover { background: var(--lilac-soft); }
 
 /* Layout */
 main > section { width: var(--page); margin: 0 auto; padding: 4.5rem 0 1rem; }
