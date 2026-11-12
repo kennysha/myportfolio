@@ -4,10 +4,10 @@ Everything below was pulled from the old portfolio at https://kennysha.myportfol
 
 **Note on this version:** the first pass grabbed every `<img>` on each page, which included the small "You may also like" related-project thumbnails that appear at the bottom of *every* case study. Those got saved into every folder they showed up in, making each project's folder look jumbled with repeated, unrelated images. This version keeps each shared thumbnail only in its true owning project's folder, and the four that couldn't be confidently attributed to one owner live in `assets/_shared-nav-thumbnails/` instead of being duplicated everywhere.
 
-**TODO list at a glance** — projects with content that could *not* be automatically saved (see each project's section below for details): `eas-lilypad-app` (Figma prototype), `flower-shop-mobile-app` (no recoverable embed/cover found at all), `web-design` (live coded site, not a file).
+**TODO list at a glance** — Figma prototypes embedded on project pages that need your login to export, so they're referenced by link only (not saved as files): `openkitchen`, `dayly-mobile-app`, `1cademy-mobile-view-prototype`, `ferndale-website-navigation-re-design`, `odei-progress-report`, `friends-in-deed-website-re-structuring`, `1cademy-ui-designs`, `classmate-app-ui-design`, `eas-lilypad-app`. Also unresolved: `flower-shop-mobile-app` (no recoverable embed/cover found at all) and `web-design` (live coded site, not a file). See each project's section below for the specific links.
 
 
-**Total project-specific files (images + videos):** 90
+**Total project-specific files (images + videos):** 96
 
 
 ## photography
@@ -97,6 +97,9 @@ Folder: `assets/openkitchen/`
 |---|---|
 | `assets/openkitchen/01_233768fd-d0b1-4b93-a7f6-4c37b0e88d75_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/233768fd-d0b1-4b93-a7f6-4c37b0e88d75_rw_3840.png?h=cf667eaaf273023288cd190f32ec6562 |
 
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/Jtv8N6K1AN3oWkzMXIMFdz/OpenKitchen-Design-System-Local (prototype + design system file views)
+
 ## Flower Shop Mobile App
 Source page: https://kennysha.myportfolio.com/flower-shop-mobile-app-hi-fidelity-prototype
 
@@ -118,6 +121,10 @@ Folder: `assets/1cademy-mobile-view-prototype/`
 | `assets/1cademy-mobile-view-prototype/03_ec0be190-a66e-4517-83a7-9e53ee41b4dc_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/ec0be190-a66e-4517-83a7-9e53ee41b4dc_rw_1920.png?h=6929f5c9ab00cb5b4c6972f7f53f4ab0 |
 | `assets/1cademy-mobile-view-prototype/04_c55f7608-9dde-40b9-b061-a41502b1d8ac_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/c55f7608-9dde-40b9-b061-a41502b1d8ac_rw_1920.png?h=91aa8cc770a3904d47523ffd58416ded |
 
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/q9UIbvAFNv5oxhNdPsUEfe/Mobile-View
+>   https://www.figma.com/file/8PP2s1Vb6FMV8qzb7Bk3lX/Brainstorming-for-Mobile-View
+
 ## Dayly Mobile App
 Source page: https://kennysha.myportfolio.com/dayly-mobile-app
 
@@ -134,6 +141,10 @@ Folder: `assets/dayly-mobile-app/`
 | `assets/dayly-mobile-app/07_bbaf705f-0119-4b18-80c6-eb316fc4449e_rw_1200.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/bbaf705f-0119-4b18-80c6-eb316fc4449e_rw_1200.jpg?h=d0333b786812685dd6925d75cf620f06 |
 | `assets/dayly-mobile-app/08_58888dcf-0bfd-4134-b7dd-7799664182e8_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/58888dcf-0bfd-4134-b7dd-7799664182e8_rw_1920.jpg?h=836738688a052b04af9cdc38eb486f19 |
 | `assets/dayly-mobile-app/09_e380fdff-dd1f-4540-9cd5-6026c9c6e4a4_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/e380fdff-dd1f-4540-9cd5-6026c9c6e4a4_rw_1920.jpg?h=8abbaa22628d7384a9b05aaa72174605 |
+| `assets/dayly-mobile-app/dayly-app-demo-video.mp4` | Extracted from the Adobe CCV embed player on this page (app demo screen recording). |
+
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/D4me3EwiiIbKMZlkL0bLA0/699-Project
 
 Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/presentation/d/1iF3WPlZQ3yvrL-UaxR2BTgUZnSyeQiLMlOSjPrY034s/edit?usp=sharing
@@ -150,6 +161,9 @@ Folder: `assets/ferndale-website-navigation-re-design/`
 | `assets/ferndale-website-navigation-re-design/01_6a1a7ba6-0bc7-4397-8598-ec4669d377b5_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/6a1a7ba6-0bc7-4397-8598-ec4669d377b5_rw_3840.png?h=849477f46056bda55fc5c41f10a4845d |
 | `assets/ferndale-website-navigation-re-design/02_27b563d6-7f0d-4813-aff4-0c6bd29f7f0b_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/27b563d6-7f0d-4813-aff4-0c6bd29f7f0b_rw_3840.png?h=a5f8059bf614456c7b6f808d49ecda89 |
 
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/izlBWkX7y8XNFDHCkUKxaz/SI-538-Ferndale-Website-Prototype
+
 ## ODEI Annual Progress Report
 Source page: https://kennysha.myportfolio.com/odei-progress-report
 
@@ -159,6 +173,11 @@ Folder: `assets/odei-progress-report/`
 |---|---|
 | `assets/odei-progress-report/01_840624c9-da68-4db7-bb3c-37c2707a8e5e_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/840624c9-da68-4db7-bb3c-37c2707a8e5e_rw_1920.png?h=5deda31862c0c66c5706740a3d35465d |
 | `assets/odei-progress-report/02_f1327123-f968-4670-acc8-2f1fa9733885_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/f1327123-f968-4670-acc8-2f1fa9733885_rw_1920.png?h=11aeba6cedc50629516613d7e02f4506 |
+| `assets/odei-progress-report/odei-site-demo-video.mp4` | Extracted from the Adobe CCV embed player on this page (live DEI report site walkthrough). |
+
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/nvQH58gzTMSYY63NAwRG9V/dei-year-5-report
+>   https://www.figma.com/proto/W3OYwVywV0pikYo5Qx5mzs/ODEI-Stuff
 
 Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/document/d/1axigax9wp9H5BojOysZFyOQDykBKvVmS9Sl4bcGayxM/edit?usp=sharing
@@ -171,8 +190,8 @@ Folder: `assets/arvr/`
 
 | File | Source |
 |---|---|
-| `assets/arvr/ar-language-learning-prototype.mp4` | Adobe Aero demo video, extracted from the Adobe CCV embed player on this page |
-| `assets/arvr/ar-search-assistance-prototype.mp4` | Adobe Aero demo video, extracted from the Adobe CCV embed player on this page |
+| `assets/arvr/ar-language-learning-prototype.mp4` | Extracted from an Adobe CCV embed player on this page. |
+| `assets/arvr/ar-search-assistance-prototype.mp4` | Extracted from an Adobe CCV embed player on this page. |
 
 ## Friends In Deed Website Re-structure
 Source page: https://kennysha.myportfolio.com/friends-in-deed-website-re-structuring
@@ -190,6 +209,12 @@ Folder: `assets/friends-in-deed-website-re-structuring/`
 | `assets/friends-in-deed-website-re-structuring/07_17bedf16-cd46-4af9-906f-92462fe8bcf5_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/17bedf16-cd46-4af9-906f-92462fe8bcf5_rw_1920.png?h=7b0add8d7e8fcf6f2cd0da147763a0ad |
 | `assets/friends-in-deed-website-re-structuring/08_4f373211-7838-4e00-b602-8f8f75068068_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/4f373211-7838-4e00-b602-8f8f75068068_rw_1920.png?h=3045008c2fe04722597c95d78a6e7f2d |
 | `assets/friends-in-deed-website-re-structuring/09_dd345b0f-4fd4-4fe8-aa7c-dc728d270829_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/dd345b0f-4fd4-4fe8-aa7c-dc728d270829_rw_3840.png?h=8d9210ce88d97c59c6b735310d28482f |
+| `assets/friends-in-deed-website-re-structuring/old-site-walkthrough.mp4` | Extracted from the Adobe CCV embed player on this page (original site walkthrough). |
+| `assets/friends-in-deed-website-re-structuring/redesign-prototype-walkthrough-1.mp4` | Extracted from the Adobe CCV embed player on this page (redesigned prototype walkthrough). |
+| `assets/friends-in-deed-website-re-structuring/redesign-prototype-walkthrough-2.mp4` | Extracted from the Adobe CCV embed player on this page (redesigned prototype walkthrough, second clip). |
+
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/oyWo5toyeFxORdXGiot770/SI-487-Wireframes
 
 Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/document/d/1ZNOYdn-aD1_XfVhGLWvV5ErwakYiaD9vmYToDQ132eQ/edit?usp=sharing
@@ -208,6 +233,10 @@ Folder: `assets/1cademy-ui-designs/`
 |---|---|
 | `assets/1cademy-ui-designs/01_ed513ad9-3c27-4827-b478-2084a275940a_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/ed513ad9-3c27-4827-b478-2084a275940a_rw_1200.png?h=9582ff303938126a0df1461731411d77 |
 | `assets/1cademy-ui-designs/02_a191cc68-f204-4cb2-bb94-76297e52650b_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/a191cc68-f204-4cb2-bb94-76297e52650b_rw_1200.png?h=9809f61f01a7dfc6ebd4c7e683b24157 |
+| `assets/1cademy-ui-designs/lightmode-demo-video.mp4` | Extracted from the Adobe CCV embed player on this page (Lightmode feature demo). |
+
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/q9UIbvAFNv5oxhNdPsUEfe/Mobile-View (same file as 1Cademy Mobile View Prototype)
 
 ## Classmate App Design
 Source page: https://kennysha.myportfolio.com/classmate-app-ui-design
@@ -225,6 +254,9 @@ Folder: `assets/classmate-app-ui-design/`
 | `assets/classmate-app-ui-design/07_cd0a4389-e02f-40cd-af44-35e4d93cc457_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cd0a4389-e02f-40cd-af44-35e4d93cc457_rw_1920.png?h=6bedb4e4f03d005a8bd2d20e826ce641 |
 | `assets/classmate-app-ui-design/08_07779639-f934-4b13-bcd3-841a3e0c580b_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/07779639-f934-4b13-bcd3-841a3e0c580b_rw_1920.png?h=24255222da57f1e4bebc9e2d21ec1b01 |
 | `assets/classmate-app-ui-design/09_04e7086c-5d10-48ff-9a6e-86417fe5981b_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/04e7086c-5d10-48ff-9a6e-86417fe5981b_rw_1920.png?h=13444ecf89b9bf6c5e722df10adce5ed |
+
+> **TODO — not saved, revisit later:** this project also has interactive Figma prototype(s) embedded that I can't export automatically (Figma requires your login to export frames):
+>   https://www.figma.com/proto/UHNE4OzWc10yUgNp221JkR/SI_482_App_Design
 
 ## EAS Lilypad App
 Source page: https://kennysha.myportfolio.com/eas-lilypad-app
