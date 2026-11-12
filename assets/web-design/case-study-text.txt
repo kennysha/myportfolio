@@ -1,0 +1,7 @@
+Shannon Kenny - web design
+https://kennysha.myportfolio.com/web-design
+
+web design
+
+I coded this website myself using HTML, CSS, and Javascript, with media queries, focusing on accessibility and responsive design. (Located here: https://kennysha.github.io/ )
+See more about this project at https://github.com/kennysha/kennysha.github.io
