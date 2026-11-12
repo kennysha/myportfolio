@@ -4,8 +4,10 @@ Everything below was pulled from the old portfolio at https://kennysha.myportfol
 
 **Note on this version:** the first pass grabbed every `<img>` on each page, which included the small "You may also like" related-project thumbnails that appear at the bottom of *every* case study. Those got saved into every folder they showed up in, making each project's folder look jumbled with repeated, unrelated images. This version keeps each shared thumbnail only in its true owning project's folder, and the four that couldn't be confidently attributed to one owner live in `assets/_shared-nav-thumbnails/` instead of being duplicated everywhere.
 
+**TODO list at a glance** — projects with content that could *not* be automatically saved (see each project's section below for details): `eas-lilypad-app` (Figma prototype), `flower-shop-mobile-app` (no recoverable embed/cover found at all), `web-design` (live coded site, not a file).
 
-**Total project-specific image files:** 88
+
+**Total project-specific files (images + videos):** 90
 
 
 ## photography
@@ -13,7 +15,7 @@ Source page: https://kennysha.myportfolio.com/photography
 
 Folder: `assets/photography/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/photography/01_29303000-f904-4367-b5c7-4533b27aa5b5_rw_1920.JPG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/29303000-f904-4367-b5c7-4533b27aa5b5_rw_1920.JPG?h=784ca2157d71b918d304525c861c2c6b |
 | `assets/photography/02_502fa008-9c4a-43a8-85da-e1ec01270f98_rw_1200.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/502fa008-9c4a-43a8-85da-e1ec01270f98_rw_1200.jpg?h=96c300fc78ae0f70b6a1fac790662ac1 |
@@ -49,7 +51,7 @@ Source page: https://kennysha.myportfolio.com/about-1
 
 Folder: `assets/about/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/about/01_1121ac7c-c052-422f-8330-13f4480650eb_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/1121ac7c-c052-422f-8330-13f4480650eb_rw_1920.png?h=f590862cbcf3bbed8ebd6e86a5c5f387 |
 
@@ -58,7 +60,7 @@ Source page: https://kennysha.myportfolio.com/contact
 
 Folder: `assets/resume/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/resume/01_132de6c2-e9c6-40d0-8b69-d2e92b03dc7b_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/132de6c2-e9c6-40d0-8b69-d2e92b03dc7b_rw_1920.png?h=44d9e6d1e8456d4c602c6410d7e3cd5a |
 
@@ -70,7 +72,7 @@ Source page: https://kennysha.myportfolio.com/living-room-designs
 
 Folder: `assets/living-room-designs/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/living-room-designs/01_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
 
@@ -82,7 +84,7 @@ Source page: https://kennysha.myportfolio.com/interior-design
 
 Folder: `assets/interior-design-modern-victorian/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/interior-design-modern-victorian/01_3f261f9e-cbe3-4152-9871-0c27eb797e4e_rw_3840.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f261f9e-cbe3-4152-9871-0c27eb797e4e_rw_3840.PNG?h=b26da51ed7e4676f06f1bef43043789b |
 
@@ -91,7 +93,7 @@ Source page: https://kennysha.myportfolio.com/openkitchen
 
 Folder: `assets/openkitchen/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/openkitchen/01_233768fd-d0b1-4b93-a7f6-4c37b0e88d75_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/233768fd-d0b1-4b93-a7f6-4c37b0e88d75_rw_3840.png?h=cf667eaaf273023288cd190f32ec6562 |
 
@@ -100,16 +102,16 @@ Source page: https://kennysha.myportfolio.com/flower-shop-mobile-app-hi-fidelity
 
 Folder: `assets/flower-shop-mobile-app/`
 
-*(no standalone image files for this project — see note below)*
+*(no standalone image/video files for this project — see TODO note below)*
 
-> No embeddable prototype could be found on this page (likely a Figma embed that didn't load) and no cover image was set for it either. You'll need to revisit the original Figma file or Adobe Portfolio editor directly to recover visuals for this one.
+> **TODO — not saved, revisit later:** no cover image and no working embed were found on this page at all (likely a Figma embed that failed to load during the crawl). The actual Figma file isn't identified here — you'll need to dig it up from your Figma account/Adobe Portfolio editor to recover visuals for this project.
 
 ## 1Cademy Mobile View Prototype
 Source page: https://kennysha.myportfolio.com/1cademy-mobile-view-prototype
 
 Folder: `assets/1cademy-mobile-view-prototype/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/1cademy-mobile-view-prototype/01_54c8dc4b-8549-4a77-bec2-b941abb4f22d_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/54c8dc4b-8549-4a77-bec2-b941abb4f22d_rw_1920.png?h=ae4114428876d69ee5cf93291f913e5e |
 | `assets/1cademy-mobile-view-prototype/02_76b5cd1b-93f5-4423-ae0d-3e8be400b102_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/76b5cd1b-93f5-4423-ae0d-3e8be400b102_rw_3840.png?h=518f642ed2ce5e41f9cbc849f74c8f8c |
@@ -121,7 +123,7 @@ Source page: https://kennysha.myportfolio.com/dayly-mobile-app
 
 Folder: `assets/dayly-mobile-app/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/dayly-mobile-app/01_a87d00f4-fa8a-4d14-b48e-74caade27c34_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/a87d00f4-fa8a-4d14-b48e-74caade27c34_rw_1200.png?h=358410648a4f87aafe42450196737daf |
 | `assets/dayly-mobile-app/02_632019da-fe92-473f-8761-99674e590956_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/632019da-fe92-473f-8761-99674e590956_rw_3840.png?h=7a6f7310f62673017a5c75f90ac05199 |
@@ -143,7 +145,7 @@ Source page: https://kennysha.myportfolio.com/ferndale-website-navigation-re-des
 
 Folder: `assets/ferndale-website-navigation-re-design/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/ferndale-website-navigation-re-design/01_6a1a7ba6-0bc7-4397-8598-ec4669d377b5_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/6a1a7ba6-0bc7-4397-8598-ec4669d377b5_rw_3840.png?h=849477f46056bda55fc5c41f10a4845d |
 | `assets/ferndale-website-navigation-re-design/02_27b563d6-7f0d-4813-aff4-0c6bd29f7f0b_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/27b563d6-7f0d-4813-aff4-0c6bd29f7f0b_rw_3840.png?h=a5f8059bf614456c7b6f808d49ecda89 |
@@ -153,7 +155,7 @@ Source page: https://kennysha.myportfolio.com/odei-progress-report
 
 Folder: `assets/odei-progress-report/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/odei-progress-report/01_840624c9-da68-4db7-bb3c-37c2707a8e5e_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/840624c9-da68-4db7-bb3c-37c2707a8e5e_rw_1920.png?h=5deda31862c0c66c5706740a3d35465d |
 | `assets/odei-progress-report/02_f1327123-f968-4670-acc8-2f1fa9733885_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/f1327123-f968-4670-acc8-2f1fa9733885_rw_1920.png?h=11aeba6cedc50629516613d7e02f4506 |
@@ -167,19 +169,17 @@ Source page: https://kennysha.myportfolio.com/arvr
 
 Folder: `assets/arvr/`
 
-*(no standalone image files for this project — see note below)*
-
-> This project's content is two embedded video demos (Adobe Aero via Behance player), not static images:
-  - https://www-ccv.adobe.io/v1/player/ccv/II_xUuG8T8C/embed
-  - https://www-ccv.adobe.io/v1/player/ccv/5tNaeS3tgVY/embed
-  Screen-record or screenshot these manually if you want stills for the new site.
+| File | Source |
+|---|---|
+| `assets/arvr/ar-language-learning-prototype.mp4` | Adobe Aero demo video, extracted from the Adobe CCV embed player on this page |
+| `assets/arvr/ar-search-assistance-prototype.mp4` | Adobe Aero demo video, extracted from the Adobe CCV embed player on this page |
 
 ## Friends In Deed Website Re-structure
 Source page: https://kennysha.myportfolio.com/friends-in-deed-website-re-structuring
 
 Folder: `assets/friends-in-deed-website-re-structuring/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/friends-in-deed-website-re-structuring/01_a5a3201a-43a0-48e1-9c37-c5baa1929fd7_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/a5a3201a-43a0-48e1-9c37-c5baa1929fd7_rw_1920.png?h=6acd19d42615d69f53e979b0ee6ea995 |
 | `assets/friends-in-deed-website-re-structuring/02_d7923051-bc7a-4bed-8ef1-af59419fdbeb_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d7923051-bc7a-4bed-8ef1-af59419fdbeb_rw_1920.png?h=24b4d06ed9f62cd24eafb40ee6abc7b4 |
@@ -204,7 +204,7 @@ Source page: https://kennysha.myportfolio.com/1cademy-ui-designs
 
 Folder: `assets/1cademy-ui-designs/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/1cademy-ui-designs/01_ed513ad9-3c27-4827-b478-2084a275940a_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/ed513ad9-3c27-4827-b478-2084a275940a_rw_1200.png?h=9582ff303938126a0df1461731411d77 |
 | `assets/1cademy-ui-designs/02_a191cc68-f204-4cb2-bb94-76297e52650b_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/a191cc68-f204-4cb2-bb94-76297e52650b_rw_1200.png?h=9809f61f01a7dfc6ebd4c7e683b24157 |
@@ -214,7 +214,7 @@ Source page: https://kennysha.myportfolio.com/classmate-app-ui-design
 
 Folder: `assets/classmate-app-ui-design/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/classmate-app-ui-design/01_d141f766-d558-49e5-a25f-0b69950ba2a4_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d141f766-d558-49e5-a25f-0b69950ba2a4_rw_1920.png?h=2c03f6e50390fcaf911e32e3b422b28a |
 | `assets/classmate-app-ui-design/02_84a60c63-7f9f-4067-a283-6e9d560bbda3_rw_600.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/84a60c63-7f9f-4067-a283-6e9d560bbda3_rw_600.png?h=02e18bbd30224482704ee7a14405ce30 |
@@ -231,18 +231,18 @@ Source page: https://kennysha.myportfolio.com/eas-lilypad-app
 
 Folder: `assets/eas-lilypad-app/`
 
-*(no standalone image files for this project — see note below)*
+*(no standalone image/video files for this project — see TODO note below)*
 
-> This project's hi-fi prototype is an embedded Figma file, not static images:
-  https://www.figma.com/proto/k1FmGffpiRtLLOU7zd9FQa/Client-Profile
-  Open it in Figma and export frames/screenshots manually if needed.
+> **TODO — not saved, revisit later:** the real hi-fi prototype for this project is an interactive Figma file embedded on the page, not an image/video I can download automatically:
+>   https://www.figma.com/proto/k1FmGffpiRtLLOU7zd9FQa/Client-Profile?node-id=84%3A587
+>   Open that link in Figma (needs your login) and export frames/screenshots manually, or re-embed the live Figma link on the new site.
 
 ## ux design research
 Source page: https://kennysha.myportfolio.com/ux-design-research
 
 Folder: `assets/ux-design-research/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/ux-design-research/01_21ac8bc0-0e04-4824-886f-814cf6bc35cd_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/21ac8bc0-0e04-4824-886f-814cf6bc35cd_rw_1920.png?h=92792f3b75d3b626d28cdea9a1526f51 |
 | `assets/ux-design-research/02_4f1aea61-f307-472a-829b-62f8f3e50764_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/4f1aea61-f307-472a-829b-62f8f3e50764_rw_1920.png?h=cda2bb80341842ffb7922b65ae21ab0d |
@@ -269,16 +269,16 @@ Source page: https://kennysha.myportfolio.com/web-design
 
 Folder: `assets/web-design/`
 
-*(no standalone image files for this project — see note below)*
+*(no standalone image/video files for this project — see TODO note below)*
 
-> This project is a live coded website, not something to embed as an image: https://kennysha.github.io/ (source: https://github.com/kennysha/kennysha.github.io)
+> **TODO — not saved, revisit later (though arguably nothing to "save"):** this project is a live coded website, not a static asset: https://kennysha.github.io/ (source: https://github.com/kennysha/kennysha.github.io). Take screenshots of the live site if you want images of it for the new portfolio.
 
 ## graphic design
 Source page: https://kennysha.myportfolio.com/graphic-design
 
 Folder: `assets/graphic-design/`
 
-| File | Source URL |
+| File | Source |
 |---|---|
 | `assets/graphic-design/01_32f7291c-d356-46d0-85dc-6c7b3c357d0f_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/32f7291c-d356-46d0-85dc-6c7b3c357d0f_rw_1920.png?h=0eccf62b2c233375563557a71dc4dfea |
 | `assets/graphic-design/02_087e349b-3999-470a-a592-dc4fae728db1_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/087e349b-3999-470a-a592-dc4fae728db1_rw_1920.png?h=e79f9e4f4a8d30a68d35e462a1224a36 |
