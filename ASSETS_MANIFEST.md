@@ -2,12 +2,10 @@
 
 Everything below was pulled from the old portfolio at https://kennysha.myportfolio.com on 2026-11-11.
 
-Each project folder under `assets/` has its images plus a `case-study-text.txt` with the original write-up copy.
+**Note on this version:** the first pass grabbed every `<img>` on each page, which included the small "You may also like" related-project thumbnails that appear at the bottom of *every* case study. Those got saved into every folder they showed up in, making each project's folder look jumbled with repeated, unrelated images. This version keeps each shared thumbnail only in its true owning project's folder, and the four that couldn't be confidently attributed to one owner live in `assets/_shared-nav-thumbnails/` instead of being duplicated everywhere.
 
 
-**Total image files:** 260
-
-Reference documents (Google Docs/Slides research reports, surveys, resume PDF) were exported too but kept out of this repo — see `~/Downloads/shannon-old-portfolio-assets` on this machine for those.
+**Total project-specific image files:** 88
 
 
 ## photography
@@ -64,7 +62,7 @@ Folder: `assets/resume/`
 |---|---|
 | `assets/resume/01_132de6c2-e9c6-40d0-8b69-d2e92b03dc7b_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/132de6c2-e9c6-40d0-8b69-d2e92b03dc7b_rw_1920.png?h=44d9e6d1e8456d4c602c6410d7e3cd5a |
 
-Linked reference docs (not included in repo):
+Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://drive.google.com/file/d/1_Di9EH6xnAyGrbOyYtAgudsSMzPlDY-n/view?usp=drive_link
 
 ## Living Room Design
@@ -76,7 +74,7 @@ Folder: `assets/living-room-designs/`
 |---|---|
 | `assets/living-room-designs/01_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
 
-Linked reference docs (not included in repo):
+Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/presentation/d/1DAj6v3Jrn11gj5urAYIl5ZPzppIzMEn5kdJ4pI8gtsA/edit?usp=sharing
 
 ## Modern Victorian Mood Board
@@ -87,18 +85,6 @@ Folder: `assets/interior-design-modern-victorian/`
 | File | Source URL |
 |---|---|
 | `assets/interior-design-modern-victorian/01_3f261f9e-cbe3-4152-9871-0c27eb797e4e_rw_3840.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f261f9e-cbe3-4152-9871-0c27eb797e4e_rw_3840.PNG?h=b26da51ed7e4676f06f1bef43043789b |
-| `assets/interior-design-modern-victorian/02_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/interior-design-modern-victorian/03_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/interior-design-modern-victorian/04_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/interior-design-modern-victorian/05_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/interior-design-modern-victorian/06_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/interior-design-modern-victorian/07_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/interior-design-modern-victorian/08_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/interior-design-modern-victorian/09_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/interior-design-modern-victorian/10_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/interior-design-modern-victorian/11_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/interior-design-modern-victorian/12_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/interior-design-modern-victorian/13_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
 
 ## OpenKitchen MVP Mobile App
 Source page: https://kennysha.myportfolio.com/openkitchen
@@ -108,35 +94,15 @@ Folder: `assets/openkitchen/`
 | File | Source URL |
 |---|---|
 | `assets/openkitchen/01_233768fd-d0b1-4b93-a7f6-4c37b0e88d75_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/233768fd-d0b1-4b93-a7f6-4c37b0e88d75_rw_3840.png?h=cf667eaaf273023288cd190f32ec6562 |
-| `assets/openkitchen/02_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/openkitchen/03_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/openkitchen/04_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/openkitchen/05_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/openkitchen/06_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/openkitchen/07_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/openkitchen/08_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/openkitchen/09_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/openkitchen/10_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/openkitchen/11_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
 
 ## Flower Shop Mobile App
 Source page: https://kennysha.myportfolio.com/flower-shop-mobile-app-hi-fidelity-prototype
 
 Folder: `assets/flower-shop-mobile-app/`
 
-| File | Source URL |
-|---|---|
-| `assets/flower-shop-mobile-app/01_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/flower-shop-mobile-app/02_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/flower-shop-mobile-app/03_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/flower-shop-mobile-app/04_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/flower-shop-mobile-app/05_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/flower-shop-mobile-app/06_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/flower-shop-mobile-app/07_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/flower-shop-mobile-app/08_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/flower-shop-mobile-app/09_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/flower-shop-mobile-app/10_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/flower-shop-mobile-app/11_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
+*(no standalone image files for this project — see note below)*
+
+> No embeddable prototype could be found on this page (likely a Figma embed that didn't load) and no cover image was set for it either. You'll need to revisit the original Figma file or Adobe Portfolio editor directly to recover visuals for this one.
 
 ## 1Cademy Mobile View Prototype
 Source page: https://kennysha.myportfolio.com/1cademy-mobile-view-prototype
@@ -149,18 +115,6 @@ Folder: `assets/1cademy-mobile-view-prototype/`
 | `assets/1cademy-mobile-view-prototype/02_76b5cd1b-93f5-4423-ae0d-3e8be400b102_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/76b5cd1b-93f5-4423-ae0d-3e8be400b102_rw_3840.png?h=518f642ed2ce5e41f9cbc849f74c8f8c |
 | `assets/1cademy-mobile-view-prototype/03_ec0be190-a66e-4517-83a7-9e53ee41b4dc_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/ec0be190-a66e-4517-83a7-9e53ee41b4dc_rw_1920.png?h=6929f5c9ab00cb5b4c6972f7f53f4ab0 |
 | `assets/1cademy-mobile-view-prototype/04_c55f7608-9dde-40b9-b061-a41502b1d8ac_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/c55f7608-9dde-40b9-b061-a41502b1d8ac_rw_1920.png?h=91aa8cc770a3904d47523ffd58416ded |
-| `assets/1cademy-mobile-view-prototype/05_e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png?h=c2a80b20ed640dd01c0261cab7e73fde |
-| `assets/1cademy-mobile-view-prototype/06_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/1cademy-mobile-view-prototype/07_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
-| `assets/1cademy-mobile-view-prototype/08_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/1cademy-mobile-view-prototype/09_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/1cademy-mobile-view-prototype/10_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/1cademy-mobile-view-prototype/11_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/1cademy-mobile-view-prototype/12_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/1cademy-mobile-view-prototype/13_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/1cademy-mobile-view-prototype/14_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/1cademy-mobile-view-prototype/15_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/1cademy-mobile-view-prototype/16_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
 
 ## Dayly Mobile App
 Source page: https://kennysha.myportfolio.com/dayly-mobile-app
@@ -178,20 +132,8 @@ Folder: `assets/dayly-mobile-app/`
 | `assets/dayly-mobile-app/07_bbaf705f-0119-4b18-80c6-eb316fc4449e_rw_1200.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/bbaf705f-0119-4b18-80c6-eb316fc4449e_rw_1200.jpg?h=d0333b786812685dd6925d75cf620f06 |
 | `assets/dayly-mobile-app/08_58888dcf-0bfd-4134-b7dd-7799664182e8_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/58888dcf-0bfd-4134-b7dd-7799664182e8_rw_1920.jpg?h=836738688a052b04af9cdc38eb486f19 |
 | `assets/dayly-mobile-app/09_e380fdff-dd1f-4540-9cd5-6026c9c6e4a4_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/e380fdff-dd1f-4540-9cd5-6026c9c6e4a4_rw_1920.jpg?h=8abbaa22628d7384a9b05aaa72174605 |
-| `assets/dayly-mobile-app/10_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/dayly-mobile-app/11_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/dayly-mobile-app/12_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/dayly-mobile-app/13_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/dayly-mobile-app/14_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/dayly-mobile-app/15_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/dayly-mobile-app/16_e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png?h=c2a80b20ed640dd01c0261cab7e73fde |
-| `assets/dayly-mobile-app/17_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/dayly-mobile-app/18_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/dayly-mobile-app/19_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/dayly-mobile-app/20_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/dayly-mobile-app/21_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
 
-Linked reference docs (not included in repo):
+Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/presentation/d/1iF3WPlZQ3yvrL-UaxR2BTgUZnSyeQiLMlOSjPrY034s/edit?usp=sharing
 - https://docs.google.com/document/d/1G5_69EC2nr-mdw0FWYA8Fv5h6UHuLPnSOdbNLu30mq8/edit?usp=sharing
 - https://docs.google.com/document/d/1XVVaepoZQ6KltZVoKW3cSX_3dlGA_Nd5Xk0v5NFYSco/edit?usp=sharing
@@ -205,18 +147,6 @@ Folder: `assets/ferndale-website-navigation-re-design/`
 |---|---|
 | `assets/ferndale-website-navigation-re-design/01_6a1a7ba6-0bc7-4397-8598-ec4669d377b5_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/6a1a7ba6-0bc7-4397-8598-ec4669d377b5_rw_3840.png?h=849477f46056bda55fc5c41f10a4845d |
 | `assets/ferndale-website-navigation-re-design/02_27b563d6-7f0d-4813-aff4-0c6bd29f7f0b_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/27b563d6-7f0d-4813-aff4-0c6bd29f7f0b_rw_3840.png?h=a5f8059bf614456c7b6f808d49ecda89 |
-| `assets/ferndale-website-navigation-re-design/03_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/ferndale-website-navigation-re-design/04_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/ferndale-website-navigation-re-design/05_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/ferndale-website-navigation-re-design/06_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/ferndale-website-navigation-re-design/07_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/ferndale-website-navigation-re-design/08_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/ferndale-website-navigation-re-design/09_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/ferndale-website-navigation-re-design/10_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/ferndale-website-navigation-re-design/11_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/ferndale-website-navigation-re-design/12_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/ferndale-website-navigation-re-design/13_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/ferndale-website-navigation-re-design/14_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
 
 ## ODEI Annual Progress Report
 Source page: https://kennysha.myportfolio.com/odei-progress-report
@@ -227,19 +157,8 @@ Folder: `assets/odei-progress-report/`
 |---|---|
 | `assets/odei-progress-report/01_840624c9-da68-4db7-bb3c-37c2707a8e5e_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/840624c9-da68-4db7-bb3c-37c2707a8e5e_rw_1920.png?h=5deda31862c0c66c5706740a3d35465d |
 | `assets/odei-progress-report/02_f1327123-f968-4670-acc8-2f1fa9733885_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/f1327123-f968-4670-acc8-2f1fa9733885_rw_1920.png?h=11aeba6cedc50629516613d7e02f4506 |
-| `assets/odei-progress-report/03_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/odei-progress-report/04_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/odei-progress-report/05_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/odei-progress-report/06_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/odei-progress-report/07_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/odei-progress-report/08_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/odei-progress-report/09_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/odei-progress-report/10_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/odei-progress-report/11_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/odei-progress-report/12_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/odei-progress-report/13_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
 
-Linked reference docs (not included in repo):
+Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/document/d/1axigax9wp9H5BojOysZFyOQDykBKvVmS9Sl4bcGayxM/edit?usp=sharing
 - https://docs.google.com/document/d/18ZbHdE0iVI20D925Smj54LvFSG6lF-RCJ4IZHe5jF24/edit?usp=sharing
 
@@ -248,19 +167,12 @@ Source page: https://kennysha.myportfolio.com/arvr
 
 Folder: `assets/arvr/`
 
-| File | Source URL |
-|---|---|
-| `assets/arvr/01_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/arvr/02_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/arvr/03_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
-| `assets/arvr/04_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/arvr/05_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/arvr/06_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/arvr/07_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/arvr/08_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/arvr/09_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/arvr/10_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/arvr/11_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
+*(no standalone image files for this project — see note below)*
+
+> This project's content is two embedded video demos (Adobe Aero via Behance player), not static images:
+  - https://www-ccv.adobe.io/v1/player/ccv/II_xUuG8T8C/embed
+  - https://www-ccv.adobe.io/v1/player/ccv/5tNaeS3tgVY/embed
+  Screen-record or screenshot these manually if you want stills for the new site.
 
 ## Friends In Deed Website Re-structure
 Source page: https://kennysha.myportfolio.com/friends-in-deed-website-re-structuring
@@ -278,19 +190,8 @@ Folder: `assets/friends-in-deed-website-re-structuring/`
 | `assets/friends-in-deed-website-re-structuring/07_17bedf16-cd46-4af9-906f-92462fe8bcf5_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/17bedf16-cd46-4af9-906f-92462fe8bcf5_rw_1920.png?h=7b0add8d7e8fcf6f2cd0da147763a0ad |
 | `assets/friends-in-deed-website-re-structuring/08_4f373211-7838-4e00-b602-8f8f75068068_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/4f373211-7838-4e00-b602-8f8f75068068_rw_1920.png?h=3045008c2fe04722597c95d78a6e7f2d |
 | `assets/friends-in-deed-website-re-structuring/09_dd345b0f-4fd4-4fe8-aa7c-dc728d270829_rw_3840.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/dd345b0f-4fd4-4fe8-aa7c-dc728d270829_rw_3840.png?h=8d9210ce88d97c59c6b735310d28482f |
-| `assets/friends-in-deed-website-re-structuring/10_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/friends-in-deed-website-re-structuring/11_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/friends-in-deed-website-re-structuring/12_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/friends-in-deed-website-re-structuring/13_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/friends-in-deed-website-re-structuring/14_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/friends-in-deed-website-re-structuring/15_e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png?h=c2a80b20ed640dd01c0261cab7e73fde |
-| `assets/friends-in-deed-website-re-structuring/16_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/friends-in-deed-website-re-structuring/17_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/friends-in-deed-website-re-structuring/18_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/friends-in-deed-website-re-structuring/19_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
-| `assets/friends-in-deed-website-re-structuring/20_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
 
-Linked reference docs (not included in repo):
+Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/document/d/1ZNOYdn-aD1_XfVhGLWvV5ErwakYiaD9vmYToDQ132eQ/edit?usp=sharing
 - https://docs.google.com/presentation/d/1D8kFjgx3DM3UQyxFHnqPhyGdOJqmNU1KjVtbULaoRto/edit?usp=sharing
 - https://docs.google.com/document/d/1PYTJb4Otj5asA7s_IJZX446lpuPwYyJhrRGUYZn7ELA/edit?usp=drive_link
@@ -307,19 +208,6 @@ Folder: `assets/1cademy-ui-designs/`
 |---|---|
 | `assets/1cademy-ui-designs/01_ed513ad9-3c27-4827-b478-2084a275940a_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/ed513ad9-3c27-4827-b478-2084a275940a_rw_1200.png?h=9582ff303938126a0df1461731411d77 |
 | `assets/1cademy-ui-designs/02_a191cc68-f204-4cb2-bb94-76297e52650b_rw_1200.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/a191cc68-f204-4cb2-bb94-76297e52650b_rw_1200.png?h=9809f61f01a7dfc6ebd4c7e683b24157 |
-| `assets/1cademy-ui-designs/03_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/1cademy-ui-designs/04_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/1cademy-ui-designs/05_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/1cademy-ui-designs/06_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/1cademy-ui-designs/07_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/1cademy-ui-designs/08_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
-| `assets/1cademy-ui-designs/09_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/1cademy-ui-designs/10_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/1cademy-ui-designs/11_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/1cademy-ui-designs/12_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/1cademy-ui-designs/13_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/1cademy-ui-designs/14_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/1cademy-ui-designs/15_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
 
 ## Classmate App Design
 Source page: https://kennysha.myportfolio.com/classmate-app-ui-design
@@ -337,38 +225,17 @@ Folder: `assets/classmate-app-ui-design/`
 | `assets/classmate-app-ui-design/07_cd0a4389-e02f-40cd-af44-35e4d93cc457_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cd0a4389-e02f-40cd-af44-35e4d93cc457_rw_1920.png?h=6bedb4e4f03d005a8bd2d20e826ce641 |
 | `assets/classmate-app-ui-design/08_07779639-f934-4b13-bcd3-841a3e0c580b_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/07779639-f934-4b13-bcd3-841a3e0c580b_rw_1920.png?h=24255222da57f1e4bebc9e2d21ec1b01 |
 | `assets/classmate-app-ui-design/09_04e7086c-5d10-48ff-9a6e-86417fe5981b_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/04e7086c-5d10-48ff-9a6e-86417fe5981b_rw_1920.png?h=13444ecf89b9bf6c5e722df10adce5ed |
-| `assets/classmate-app-ui-design/10_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/classmate-app-ui-design/11_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/classmate-app-ui-design/12_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/classmate-app-ui-design/13_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/classmate-app-ui-design/14_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/classmate-app-ui-design/15_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/classmate-app-ui-design/16_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/classmate-app-ui-design/17_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/classmate-app-ui-design/18_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
-| `assets/classmate-app-ui-design/19_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/classmate-app-ui-design/20_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/classmate-app-ui-design/21_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
 
 ## EAS Lilypad App
 Source page: https://kennysha.myportfolio.com/eas-lilypad-app
 
 Folder: `assets/eas-lilypad-app/`
 
-| File | Source URL |
-|---|---|
-| `assets/eas-lilypad-app/01_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/eas-lilypad-app/02_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/eas-lilypad-app/03_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/eas-lilypad-app/04_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/eas-lilypad-app/05_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/eas-lilypad-app/06_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/eas-lilypad-app/07_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/eas-lilypad-app/08_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/eas-lilypad-app/09_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/eas-lilypad-app/10_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/eas-lilypad-app/11_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/eas-lilypad-app/12_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
+*(no standalone image files for this project — see note below)*
+
+> This project's hi-fi prototype is an embedded Figma file, not static images:
+  https://www.figma.com/proto/k1FmGffpiRtLLOU7zd9FQa/Client-Profile
+  Open it in Figma and export frames/screenshots manually if needed.
 
 ## ux design research
 Source page: https://kennysha.myportfolio.com/ux-design-research
@@ -392,19 +259,8 @@ Folder: `assets/ux-design-research/`
 | `assets/ux-design-research/13_117b2d98-a130-4562-9ee3-d64e7ff8c7a8_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/117b2d98-a130-4562-9ee3-d64e7ff8c7a8_rw_1920.jpg?h=5ca65ed6e8d5a9a521727ac3184b5763 |
 | `assets/ux-design-research/14_7b7201a5-ed0a-4d3a-87e3-c004afe689d0_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7b7201a5-ed0a-4d3a-87e3-c004afe689d0_rw_1920.jpg?h=19130ac983857c05339f26dcfb924ab4 |
 | `assets/ux-design-research/15_7673f3d7-bc52-4e79-a548-3296af7efb10_rw_1920.jpg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7673f3d7-bc52-4e79-a548-3296af7efb10_rw_1920.jpg?h=1686d10c2c77aa65b855e0c65b81beb8 |
-| `assets/ux-design-research/16_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/ux-design-research/17_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/ux-design-research/18_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/ux-design-research/19_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/ux-design-research/20_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/ux-design-research/21_cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/cc14d11d-a90f-4b89-b2f8-0e801bb23718_rwc_0x45x1650x1237x1650.png?h=514ff9be8cf5dd1204566ce4ca488c15 |
-| `assets/ux-design-research/22_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/ux-design-research/23_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/ux-design-research/24_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/ux-design-research/25_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/ux-design-research/26_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
 
-Linked reference docs (not included in repo):
+Linked reference docs (exported separately, not in this repo — see `~/Downloads/shannon-old-portfolio-assets`):
 - https://docs.google.com/document/d/1yEA03x6lQq260gobmdyAde_4gHDXyW0-Ov8rn44YoKk/edit?usp=sharing
 - https://docs.google.com/presentation/d/1ZmBy5tUORdi3u_BYLPZYblgIIz4XYiXXrFqaE8egviw/edit?usp=sharing
 
@@ -413,19 +269,9 @@ Source page: https://kennysha.myportfolio.com/web-design
 
 Folder: `assets/web-design/`
 
-| File | Source URL |
-|---|---|
-| `assets/web-design/01_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/web-design/02_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
-| `assets/web-design/03_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/web-design/04_2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2fb27857-6f79-413f-92df-1bf6cff2ba2c_rwc_108x0x1702x1277x1702.png?h=2869dc72bdac86f2b8656be573a2055c |
-| `assets/web-design/05_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a |
-| `assets/web-design/06_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/web-design/07_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/web-design/08_2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/2ee129d0-2e44-4a84-8a36-6ad75b295fec_rwc_339x0x5333x4000x5120.png?h=42b7ed188374607022001c42e171813e |
-| `assets/web-design/09_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/web-design/10_7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7130673b-edf9-4b37-b07a-b0e3cda6ddc0_carw_4x3x5120.PNG?h=d954009b5068f9aa888a779c85edb3a1 |
-| `assets/web-design/11_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
+*(no standalone image files for this project — see note below)*
+
+> This project is a live coded website, not something to embed as an image: https://kennysha.github.io/ (source: https://github.com/kennysha/kennysha.github.io)
 
 ## graphic design
 Source page: https://kennysha.myportfolio.com/graphic-design
@@ -437,14 +283,11 @@ Folder: `assets/graphic-design/`
 | `assets/graphic-design/01_32f7291c-d356-46d0-85dc-6c7b3c357d0f_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/32f7291c-d356-46d0-85dc-6c7b3c357d0f_rw_1920.png?h=0eccf62b2c233375563557a71dc4dfea |
 | `assets/graphic-design/02_087e349b-3999-470a-a592-dc4fae728db1_rw_1920.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/087e349b-3999-470a-a592-dc4fae728db1_rw_1920.png?h=e79f9e4f4a8d30a68d35e462a1224a36 |
 | `assets/graphic-design/03_7eec68bf-ce3f-45fb-9f35-20cdabf0be4d_rw_600.gif` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/7eec68bf-ce3f-45fb-9f35-20cdabf0be4d_rw_600.gif?h=208e6f8e4619a7b12de90a50c812ed73 |
-| `assets/graphic-design/04_88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/88a1e3f1-8b5b-4ed8-9101-ebfcea83cbfb_rwc_0x0x792x594x792.png?h=351341bd5733011e88eb53c8069e5735 |
-| `assets/graphic-design/05_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b |
-| `assets/graphic-design/06_8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8b1aad10-e10c-41a6-852c-98f3cdb1c264_rwc_137x0x1122x842x1122.png?h=944a149205c1c88e34e8d054a5d026a1 |
-| `assets/graphic-design/07_3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/3f1a847d-2381-4bf7-be72-1da1eb7c5e4d_rwc_339x0x5333x4000x5120.png?h=48886348e0978c5d5deb7c8f0da9d5f5 |
-| `assets/graphic-design/08_8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/8d1ea2ff-3504-45c3-80fb-080face0aec3_rwc_339x0x5333x4000x5120.png?h=e27141c589725a812c30612dc27f4998 |
-| `assets/graphic-design/09_d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/d2769f2c-49d2-4fae-9dd7-25e7b1df851f_rwc_339x0x5333x4000x5120.png?h=e378ca4efbbcb0d8ae03b42a69f6e29d |
-| `assets/graphic-design/10_80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/80c72a09-102a-40e1-a376-e196e20e34e8_rwc_215x0x3641x2731x3641.png?h=a98047fba9f71fa10c98c5730bc74591 |
-| `assets/graphic-design/11_9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9ec53284-caa1-41cf-a1c4-e4237b3332d0_rwc_39x0x621x466x621.jpeg?h=8627f441af6021a7536f4e53d5b49cdd |
-| `assets/graphic-design/12_871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/871f5701-9031-4456-bfa2-b574faeef63c_rwc_339x0x5333x4000x5120.png?h=c2b8916543eb12967daa5c031d78f7c5 |
-| `assets/graphic-design/13_9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/9d53c50f-99fd-4628-b5df-5140dfbc1b64_rwc_0x0x2050x1537x2050.png?h=58629644e815f347f9440ef3a0eff51a |
-| `assets/graphic-design/14_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` | https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237 |
+
+## Shared nav thumbnails (`assets/_shared-nav-thumbnails/`)
+These 4 images showed up repeated across many project pages as "You may also like" link thumbnails, but couldn't be confidently traced back to one owning project. Kept once here for reference rather than duplicated everywhere:
+
+- `assets/_shared-nav-thumbnails/03_df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png` — https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/df42af7e-a041-44fa-9294-127a22d4efe1_rwc_157x63x1081x811x1081.png?h=91f4a187b156d8eaf201a1870e6c9237
+- `assets/_shared-nav-thumbnails/05_774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png` — https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/774373bf-1de1-45f4-b124-b5e6a0a28ccf_rwc_0x0x792x594x792.png?h=4969e44d7421f2a926c9e15d4f0cd18b
+- `assets/_shared-nav-thumbnails/05_e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png` — https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/e82521d2-57bf-471b-b83a-f4a513940304_rwc_7x0x562x422x562.png?h=c2a80b20ed640dd01c0261cab7e73fde
+- `assets/_shared-nav-thumbnails/07_258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png` — https://cdn.myportfolio.com/9f162745-d8ce-4942-bc0f-210db817dabc/258afa31-cff9-41ec-a6db-15622701bd4b_rwc_0x0x4500x3375x4500.png?h=7c72680a69a6416bc3935afaf205580a
