@@ -108,6 +108,72 @@ h1 { font-size: clamp(2.5rem, 6.5vw, 4.5rem); max-width: 16ch; letter-spacing: -
 footer { width: var(--page); margin: 4rem auto 0; padding: 2rem 0; color: var(--muted); font-size: 0.9375rem; }
 footer p { margin: 0; }
 
+/* Plain work index (matches old site's text-only "all work" list) */
+.work-list { list-style: none; margin: 0; padding: 0; max-width: 42rem; }
+.work-list li { border-top: 1px solid var(--lilac-soft); }
+.work-list li:last-child { border-bottom: 1px solid var(--lilac-soft); }
+.work-list a {
+  display: flex; align-items: baseline; justify-content: space-between; gap: 1rem;
+  padding: 1.1rem 0.25rem; color: var(--ink); text-decoration: none; font-family: var(--serif); font-size: 1.25rem;
+}
+.work-list a:hover { color: var(--mauve); }
+.work-list a:hover .work-year { color: var(--mauve); }
+.work-year { font-family: var(--sans); font-size: 0.9375rem; color: var(--muted); white-space: nowrap; }
+
+/* Photography grid */
+.photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
+.photo-grid img { width: 100%; height: 260px; object-fit: cover; border-radius: 14px; display: block; background: var(--lilac-soft); }
+
+/* Case-study project pages */
+.project-hero { padding-top: 6rem; padding-bottom: 1rem; }
+.project-hero h1 { max-width: 20ch; }
+.project-subtitle { font-family: var(--serif); font-size: 1.25rem; color: var(--muted); max-width: 48ch; margin: 1rem 0 0; }
+.project-meta { list-style: none; margin: 1.75rem 0 0; padding: 1.25rem 0; border-top: 1px solid var(--lilac-soft); border-bottom: 1px solid var(--lilac-soft); display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.75rem 2rem; }
+.project-meta dt { font-size: 0.8125rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--mauve); margin: 0 0 0.2rem; }
+.project-meta dd { margin: 0; }
+
+.project-image { width: 100%; border-radius: 20px; display: block; margin: 2.5rem 0; background: var(--lilac-soft); }
+.project-body h3 { margin-top: 2.5rem; }
+.project-body p { max-width: 68ch; }
+.project-body ul, .project-body ol { max-width: 68ch; padding-left: 1.25rem; }
+
+.project-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin: 2rem 0; }
+.project-gallery img { width: 100%; border-radius: 16px; display: block; background: var(--lilac-soft); }
+
+.project-video { margin: 2rem 0; max-width: 42rem; }
+.project-video video { width: 100%; border-radius: 16px; background: #000; display: block; }
+.project-video figcaption { color: var(--muted); font-size: 0.9375rem; margin-top: 0.5rem; }
+
+.figma-embed { position: relative; width: 100%; aspect-ratio: 16 / 10; border-radius: 16px; overflow: hidden; margin: 2rem 0 0.5rem; background: var(--lilac-soft); }
+.figma-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.figma-fallback { margin: 0 0 2rem; font-size: 0.9375rem; }
+
+.missing-asset {
+  margin: 2rem 0; padding: 2.5rem 1.5rem; border-radius: 16px; text-align: center;
+  border: 2px dashed var(--lilac); color: var(--muted); background: var(--lilac-soft);
+}
+.missing-asset p { margin: 0; max-width: 40ch; margin-left: auto; margin-right: auto; }
+.missing-asset p:first-child { font-family: var(--serif); font-size: 1.125rem; color: var(--ink); margin-bottom: 0.35rem; }
+.missing-asset .note { font-size: 0.9375rem; }
+
+.refs { margin: 2rem 0 0; padding: 0; list-style: none; }
+.refs li { margin: 0.4rem 0; }
+.refs .ref-kind { color: var(--muted); font-size: 0.875rem; }
+
+.related { margin-top: 3.5rem; padding-top: 2.5rem; border-top: 1px solid var(--lilac-soft); }
+.related .grid { gap: 1.5rem 2rem; }
+
+/* Resume page */
+.resume-download { margin: 1rem 0 0; }
+.resume-note { color: var(--muted); font-size: 0.9375rem; max-width: 50ch; }
+.contact-block {
+  margin-top: 3.5rem; padding-top: 2.5rem; border-top: 1px dashed var(--lilac);
+}
+.contact-block .flag {
+  display: inline-block; font-size: 0.8125rem; font-weight: 600; letter-spacing: 0.03em;
+  color: var(--mauve); background: var(--lilac-soft); border-radius: 999px; padding: 0.2rem 0.75rem; margin-bottom: 0.75rem;
+}
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   * { transition: none !important; }
