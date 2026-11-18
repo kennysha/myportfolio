@@ -56,12 +56,16 @@ h3 { font-size: 1.375rem; font-weight: 400; }
 .section-intro { color: var(--muted); max-width: 52ch; margin: 0 0 2rem; }
 
 /* Hero */
-.hero { padding-top: 2rem; padding-bottom: 0rem; }
+.hero { padding-top: 2rem; padding-bottom: 1rem; }
 .hero + section { padding-top: 0rem; }
 .hero .project-subtitle { margin-top: 8px; }
 h1 { font-size: clamp(2.5rem, 6.5vw, 4.5rem); max-width: 16ch; letter-spacing: -0.02em; }
 .lead { font-size: 1.25rem; max-width: 46ch; margin: 1.5rem 0 2rem; color: var(--muted); }
 .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.5rem; margin: 0; }
+.hero-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; }
+.hero-row .lead { margin: 1.5rem 0; flex: 1 1 32ch; }
+.hero-row .actions { margin: 1.5rem 0; }
+@media (max-width: 640px) { .hero-row { flex-direction: column; align-items: flex-start; } .hero-row .lead { flex-basis: auto; } }
 
 .button {
   display: inline-block; padding: 0.55rem 1.4rem;
