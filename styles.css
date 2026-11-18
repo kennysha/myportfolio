@@ -65,6 +65,7 @@ h1 { font-size: clamp(2.5rem, 6.5vw, 4.5rem); max-width: 16ch; letter-spacing: -
 .hero-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 1rem; }
 .hero-row .lead { margin: 1.5rem 0; flex: 1 1 32ch; }
 .hero-row .actions { margin: 1.5rem 0; }
+@media (max-width: 900px) { .hero-row .lead, .hero-row .actions { margin: 0.5rem 0; } }
 @media (max-width: 640px) { .hero-row { flex-direction: column; align-items: flex-start; } .hero-row .lead { flex-basis: auto; } }
 
 .button {
