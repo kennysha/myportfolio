@@ -68,7 +68,7 @@ h1 { font-size: clamp(2.5rem, 6.5vw, 4.5rem); max-width: 16ch; letter-spacing: -
 @media (max-width: 640px) { .hero-row { flex-direction: column; align-items: flex-start; } .hero-row .lead { flex-basis: auto; } }
 
 .button {
-  display: inline-block; padding: 0.55rem 1.4rem;
+  display: inline-block; padding: 0.55rem 1rem;
   background: var(--lilac); color: var(--ink);
   font-weight: 500; text-decoration: none; border-radius: 999px;
   transition: background 0.2s;
