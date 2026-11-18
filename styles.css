@@ -129,8 +129,10 @@ footer p { margin: 0; }
 .work-year { font-family: var(--sans); font-size: 0.9375rem; color: var(--muted); white-space: nowrap; }
 
 /* Photography grid */
-.photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
+.photo-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 .photo-grid img { width: 100%; height: 260px; object-fit: cover; border-radius: 14px; display: block; background: var(--lilac-soft); }
+@media (max-width: 900px) { .photo-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .photo-grid { grid-template-columns: 1fr; } .photo-grid img { height: 220px; } }
 
 /* Case-study project pages */
 .project-hero { padding-top: 6rem; padding-bottom: 1rem; }
