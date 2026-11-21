@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Shannon Kenny — OpenKitchen MVP Mobile App</title>
+  <title>Shannon Kenny — Mobile App Design for OpenKitchen</title>
   <meta name="description" content="MVP Mobile App Design for Startup Company &quot;OpenKitchen&quot;">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23B9A3E3'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,12 +24,12 @@
 
   <main id="main">
     <section class="project-hero" id="top">
-      <h1>OpenKitchen MVP Mobile App</h1>
-      <p class="project-subtitle">MVP Mobile App Design for Startup Company &ldquo;OpenKitchen&rdquo;</p>
+      <h1>Mobile App Design for OpenKitchen</h1>
+      <p class="project-subtitle">Designing the MVP mobile app for OpenKitchen, a startup connecting home cooks with hungry guests.</p>
+      <p class="project-year">2023</p>
       <dl class="project-meta">
-        <div><dt>Team</dt><dd>CEO &mdash; Ron Echavarria<br>UX Designer &mdash; Chloe Bohorquez<br>Lead Developer &mdash; Gary Pedru</dd></div>
         <div><dt>My Role</dt><dd>Lead UX/UI Designer</dd></div>
-        <div><dt>Year</dt><dd>2023</dd></div>
+        <div><dt>Team</dt><dd>CEO &mdash; Ron Echavarria<br>UX Designer &mdash; Chloe Bohorquez<br>Lead Developer &mdash; Gary Pedru</dd></div>
       </dl>
     </section>
     <section class="project-body">
@@ -37,6 +37,126 @@
       <p>I worked as a UX/UI Designer for a startup company called &ldquo;OpenKitchen&rdquo; to help them design the MVP of their mobile application. I worked with the CEO and fellow designer to review initial wireframes, develop mid-fidelity wireframes, conduct user research, develop key findings and recommendations, establish brand colors, create a design system, and ultimately create a hi-fidelity working prototype to hand off to the development team for launch of the application.</p>
         <p>The OpenKitchen app is designed to support Host users and Guest users, where guests are able to sign up and search for hosts in their area, book an online reservation time and meal, and show up to receive a homemade meal made by a host who loves to cook. The app also allows Hosts to sign up as a host, create a menu for their kitchen, and set up meal times for guests to reserve.</p>
         <h3>Process</h3>
+        <figure class="process-diagram">
+          <svg viewBox="0 0 1200 370" role="img" aria-labelledby="process-diagram-title">
+            <title id="process-diagram-title">Project process map showing nine steps across two rows with feedback loops, reflecting the iterative, non-linear nature of the work.</title>
+            <defs>
+              <pattern id="dotgrid" width="20" height="20" patternUnits="userSpaceOnUse">
+                <circle cx="2" cy="2" r="1.2" class="grid-dot"></circle>
+              </pattern>
+              <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                <path d="M0,0 L10,5 L0,10 z" fill="var(--orange)"></path>
+              </marker>
+              <marker id="arrow-loop" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+                <path d="M0,0 L10,5 L0,10 z" fill="var(--orange-deep)"></path>
+              </marker>
+            </defs>
+
+            <rect x="16" y="16" width="1168" height="334" fill="url(#dotgrid)"></rect>
+            <path class="corner" d="M16,40 V16 H40"></path>
+            <path class="corner" d="M1160,16 H1184 V40"></path>
+            <path class="corner" d="M1184,326 V350 H1160"></path>
+            <path class="corner" d="M40,350 H16 V326"></path>
+
+            <!-- main flow traces: row 1 (left to right) -->
+            <line class="trace" x1="240" y1="85" x2="270" y2="85" marker-end="url(#arrow)"></line>
+            <line class="trace" x1="470" y1="85" x2="500" y2="85" marker-end="url(#arrow)"></line>
+            <line class="trace" x1="700" y1="85" x2="730" y2="85" marker-end="url(#arrow)"></line>
+            <line class="trace" x1="930" y1="85" x2="960" y2="85" marker-end="url(#arrow)"></line>
+
+            <!-- elbow trace: row 1 end down into row 2 start -->
+            <path class="trace" d="M1060,110 V170 H370 V230" marker-end="url(#arrow)" fill="none"></path>
+
+            <!-- main flow traces: row 2 (left to right) -->
+            <line class="trace" x1="470" y1="255" x2="500" y2="255" marker-end="url(#arrow)"></line>
+            <line class="trace" x1="700" y1="255" x2="730" y2="255" marker-end="url(#arrow)"></line>
+            <line class="trace" x1="930" y1="255" x2="960" y2="255" marker-end="url(#arrow)"></line>
+
+            <!-- node 1 -->
+            <g>
+              <rect class="node-bg" x="40" y="60" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="54" cy="74" r="11"></circle>
+              <text class="badge-text" x="54" y="78" text-anchor="middle">01</text>
+              <text class="label" x="140" y="82" text-anchor="middle">Review Initial</text>
+              <text class="label" x="140" y="97" text-anchor="middle">Wireframes</text>
+            </g>
+            <!-- node 2 -->
+            <g>
+              <rect class="node-bg" x="270" y="60" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="284" cy="74" r="11"></circle>
+              <text class="badge-text" x="284" y="78" text-anchor="middle">02</text>
+              <text class="label" x="370" y="82" text-anchor="middle">Develop New</text>
+              <text class="label" x="370" y="97" text-anchor="middle">Wireframes</text>
+            </g>
+            <!-- node 3 -->
+            <g>
+              <rect class="node-bg" x="500" y="60" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="514" cy="74" r="11"></circle>
+              <text class="badge-text" x="514" y="78" text-anchor="middle">03</text>
+              <text class="label" x="600" y="82" text-anchor="middle">Conduct User</text>
+              <text class="label" x="600" y="97" text-anchor="middle">Research</text>
+            </g>
+            <!-- node 4 -->
+            <g>
+              <rect class="node-bg" x="730" y="60" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="744" cy="74" r="11"></circle>
+              <text class="badge-text" x="744" y="78" text-anchor="middle">04</text>
+              <text class="label" x="830" y="82" text-anchor="middle">Communicate UX</text>
+              <text class="label" x="830" y="97" text-anchor="middle">Recommendations</text>
+            </g>
+            <!-- node 5 -->
+            <g>
+              <rect class="node-bg" x="960" y="60" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="974" cy="74" r="11"></circle>
+              <text class="badge-text" x="974" y="78" text-anchor="middle">05</text>
+              <text class="label" x="1060" y="82" text-anchor="middle">Establish Brand</text>
+              <text class="label" x="1060" y="97" text-anchor="middle">Colors</text>
+            </g>
+            <!-- node 6 -->
+            <g>
+              <rect class="node-bg" x="270" y="230" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="284" cy="244" r="11"></circle>
+              <text class="badge-text" x="284" y="248" text-anchor="middle">06</text>
+              <text class="label" x="370" y="252" text-anchor="middle">Establish Design</text>
+              <text class="label" x="370" y="267" text-anchor="middle">System</text>
+            </g>
+            <!-- node 7 -->
+            <g>
+              <rect class="node-bg" x="500" y="230" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="514" cy="244" r="11"></circle>
+              <text class="badge-text" x="514" y="248" text-anchor="middle">07</text>
+              <text class="label" x="600" y="252" text-anchor="middle">Create Mid-fidelity</text>
+              <text class="label" x="600" y="267" text-anchor="middle">Mockups</text>
+            </g>
+            <!-- node 8 -->
+            <g>
+              <rect class="node-bg" x="730" y="230" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="744" cy="244" r="11"></circle>
+              <text class="badge-text" x="744" y="248" text-anchor="middle">08</text>
+              <text class="label" x="830" y="252" text-anchor="middle">Iterate on</text>
+              <text class="label" x="830" y="267" text-anchor="middle">Mid-fidelity Mockups</text>
+            </g>
+            <!-- node 9 (final) -->
+            <g>
+              <rect class="node-bg node-final" x="960" y="230" width="200" height="50" rx="6"></rect>
+              <circle class="badge-bg" cx="974" cy="244" r="11"></circle>
+              <text class="badge-text" x="974" y="248" text-anchor="middle">09</text>
+              <text class="label" x="1060" y="252" text-anchor="middle">Develop Hi-fidelity</text>
+              <text class="label" x="1060" y="267" text-anchor="middle">Prototype</text>
+            </g>
+
+            <!-- feedback loop: research sends team back to revise wireframes (routed above row 1, clear of every card) -->
+            <path class="loop" d="M830,60 C 830,25 370,25 370,60" marker-end="url(#arrow-loop)"></path>
+            <rect class="loop-label-bg" x="567" y="24" width="66" height="20" rx="5"></rect>
+            <text class="loop-label" x="600" y="38" text-anchor="middle">revisit</text>
+
+            <!-- feedback loop: iteration on mockups (routed below row 2, clear of every card) -->
+            <path class="loop" d="M830,280 C 830,315 600,315 600,280" marker-end="url(#arrow-loop)"></path>
+            <rect class="loop-label-bg" x="682" y="296" width="66" height="20" rx="5"></rect>
+            <text class="loop-label" x="715" y="310" text-anchor="middle">iterate</text>
+          </svg>
+          <figcaption class="process-diagram-caption">Process map — the dashed traces mark where user research and mockup iteration sent the project back to earlier steps, rather than moving in a straight line.</figcaption>
+        </figure>
         <p><strong>Initial Wireframes</strong> &mdash; OpenKitchen had several existing wireframes when I came aboard, which served as our starting point. They included a guest user flow and a host user flow. These later needed to be re-worked so they included more specification and detail, and made more sense for the user flow.</p>
         <p><strong>Mid-fidelity Wireframes</strong> &mdash; I worked with the CEO and fellow designer to re-design the initial wireframes. Once we determined the content for most of the pages, we then planned the layout for each page and mapped out the entire user flow with much more specificity, thinking ahead about the interactions needed for the user to accomplish their goals: general onboarding, host onboarding, main global navigation, the guest user flow, and the host user flow.</p>
         <p><strong>Initial Hi-fidelity Mockups</strong> &mdash; I applied the brand colors discussed to the wireframes and color-coded the guest user flow screens with orange, and the host user flow screens with green.</p>
